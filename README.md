@@ -32,10 +32,17 @@ This is my learning Node app (sorry for the bad coding). The automatic train tra
 - [ ] Make the code to notified 24 hrs train tracking.
 - [ ] Make the code more easy to read.
 
-## Contributors
+## Author
 
 * Kanin Peanviriyakulkit (@DogRocker)
 
+## Contributing
+
+All are welcome! :)
+
+## Images
+
+...
 
 ## License
 
